@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/snap/clion/203/bin/cmake/linux/bin/cmake;-P;/home/zenghua/code/ukf/cmake-build-debug/benchmark/src/googlebenchmark-stamp/download-googlebenchmark.cmake;COMMAND;/snap/clion/203/bin/cmake/linux/bin/cmake;-P;/home/zenghua/code/ukf/cmake-build-debug/benchmark/src/googlebenchmark-stamp/verify-googlebenchmark.cmake;COMMAND;/snap/clion/203/bin/cmake/linux/bin/cmake;-P;/home/zenghua/code/ukf/cmake-build-debug/benchmark/src/googlebenchmark-stamp/extract-googlebenchmark.cmake
+source_dir=/home/zenghua/code/ukf/cmake-build-debug/benchmark/src/googlebenchmark
+work_dir=/home/zenghua/code/ukf/cmake-build-debug/benchmark/src
+url(s)=https://github.com/google/benchmark/archive/v1.3.0.zip
+hash=
+no_extract=
+
